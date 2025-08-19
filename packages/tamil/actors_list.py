@@ -1,4 +1,4 @@
-from telugu import exe
+from packages.telugu import exe
 
 print(exe.actor9)
 
